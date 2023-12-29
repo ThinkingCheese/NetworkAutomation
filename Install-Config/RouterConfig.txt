@@ -1,0 +1,8 @@
+conf t
+interface g0/2
+description "ok im alive now."
+exit
+exit
+
+
+
